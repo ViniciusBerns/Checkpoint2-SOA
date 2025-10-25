@@ -1,10 +1,11 @@
-# 🎓 Sistema de Gerenciamento - FIAP 3ESA
+# 🎓 Sistema de Gerenciamento - FIAP 3ESA - Checkpoint SOA
 
 ## 👥 Integrantes do Grupo
 
 - **Vinícius Almeida Bernardino de Souza** - 97888
 - **Márcio Hitoshi Tahyra** - 552511
-- 
+- **Gustavo Kenzo** - 98481
+
 
 
 ---
